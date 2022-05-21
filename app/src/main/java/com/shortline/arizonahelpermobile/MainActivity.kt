@@ -72,6 +72,7 @@ class MainActivity : ComponentActivity() {
                             Product(image = ironImg, name = "Железо", price = 23500)
                             Product(image = bronzeImg, name = "Бронза", price = 24000)
                         }
+
                     }
                     composable("Профиль"){
                         Text(text = "dsfdsaf")
